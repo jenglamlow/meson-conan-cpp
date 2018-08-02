@@ -28,9 +28,3 @@ int main(int argc, char** argv){
     timer.stop();
     return 0;
 }
-
-// #include <iostream>
-
-// int main() {
-//     std::cout<< "Hello\n";
-// }
